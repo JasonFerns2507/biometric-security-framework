@@ -20,7 +20,7 @@ This system processes a user's accelerometer and gyroscope data to learn their u
 ## 4. Tech Stack & Dataset
 * **Language:** Python
 * **Libraries:** Scikit-learn (for KNN), Pandas, NumPy (for data processing)
-* **Dataset:** [WISDM Smartphone and Smartwatch Activity and Biometrics Dataset]((https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset))
+* **Dataset:** [WISDM Smartphone and Smartwatch Activity and Biometrics Dataset](https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset)
 
 ## 5. Performance & Results
 The prototype successfully demonstrated the feasibility of this approach.
